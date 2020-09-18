@@ -18,8 +18,8 @@
     <licenseUrl>https://www.raise3d.com/legal/raise3d-software-firmware-license-agreement/</licenseUrl>
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
     <docsUrl>https://support.raise3d.com/tree.html?cid=15</docsUrl>
-    <tags>ideamaker SPACE_SEPARATED</tags>
-    <summary>__REPLACE__</summary>
+    <tags>ideamaker printing 3D slicer</tags>
+    <summary>Prepare files for printing with Raise3D’s unique 3D slicer software</summary>
     <description>
 ## Overview
 
@@ -44,7 +44,7 @@ Slicing with ideaMaker is fast, efficient, and completely free.
 - Multi-Language interface: English, German, French, Italian, Russian, Polish, Japanese, Korea, and- Chinese, etc.
     </description>
     <dependencies>
-      <dependency id="vcredist2008" />
+      <dependency id="vcredist2008" version="9.0.30729.6163" />
     </dependencies>
     <!-- =============================== -->
   </metadata>
