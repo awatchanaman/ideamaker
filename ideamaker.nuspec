@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!-- Do not remove this test for UTF-8: if “Ω” doesn’t appear as greek uppercase omega letter enclosed in quotation marks, you should use an editor that supports UTF-8, not this one. -->
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
@@ -20,8 +20,7 @@
     <docsUrl>https://support.raise3d.com/tree.html?cid=15</docsUrl>
     <tags>ideamaker printing 3D slicer</tags>
     <summary>Prepare files for printing with Raise3D’s unique 3D slicer software</summary>
-    <description>
-## Overview
+    <description><![CDATA[## Overview
 
 Prepare files for printing with ideaMaker, Raise3D’s powerful slicing software. The user-friendly interface can prepare STL, OBJ, 3MF and OLTP files within 2 clicks, while defined settings provide limitless customization for all users. After the file slicing, users can directly send print files to RaiseCloud to manage and monitor the printing process under one click.
 
@@ -42,7 +41,8 @@ Slicing with ideaMaker is fast, efficient, and completely free.
 - Remote monitoring and print job management
 - Input 3MF/OBJ/STL, output GCODE
 - Multi-Language interface: English, German, French, Italian, Russian, Polish, Japanese, Korea, and- Chinese, etc.
-    </description>
+
+]]></description>
     <dependencies>
       <dependency id="vcredist2008" version="9.0.30729.6163" />
     </dependencies>
